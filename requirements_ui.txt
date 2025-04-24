@@ -1,0 +1,13 @@
+# Web Interface
+streamlit==1.33.0
+plotly==5.19.0
+
+# Data Processing (for UI)
+pandas==2.2.1
+numpy==1.26.4
+
+# Database Access
+psycopg2-binary==2.9.9
+
+# Utilities
+python-dotenv==1.0.1 
